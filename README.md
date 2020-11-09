@@ -1,8 +1,2 @@
-### Python code challenge
+### Python package to interact with STAC API
 
-#### Install requirements
-- Install Python 3.6 or above
-- Install packages
-$ pip install -r requirements.txt
-
-#### Run the code
