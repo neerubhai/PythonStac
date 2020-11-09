@@ -1,0 +1,4 @@
+#### Requirements for python project
+#### Install using 'pip install -r requirements.txt'
+requests
+shapely
